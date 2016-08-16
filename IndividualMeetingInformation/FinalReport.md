@@ -25,21 +25,24 @@ Mentors:
 
 Part 1 - Public Section:
 
-Brief 1-2 paragraph description of your primary projects and where you are headed next.  This should be suitable for posting on the NIMBioS website.  Keep it simple.
+1. Brief 1-2 paragraph description of your primary projects and where you are headed next.  This should be suitable for posting on the NIMBioS website.  Keep it simple.
 
-    a. Research Activities
+    A. Research Activities
 
-Published and Submitted Articles
+        i. Published and Submitted Articles
 
-Research Presentations
+        ii. Research Presentations
 
-Collaborations – include information on collaborations you’ve initiated and their status
+        iii. Other Products
 
-Working group/workshop participation
+    B. Collaborations – include information on collaborations you’ve initiated and their status
 
-    b. Outreach/Education Activities – include activities you were involved with, mentoring you’ve done here or elsewhere, talks given elsewhere for outreach, etc.
+        i. Working group/workshop participation
+        ii. Other collaborations
 
-    c.  Training Activities – i.e., grant-writing workshops, tutorials here or elsewhere, participation in NIMBioS or departmental seminars, NIMBioS career development activities, etc.
+2. Outreach/Education Activities – include activities you were involved with, mentoring you’ve done here or elsewhere, talks given elsewhere for outreach, etc.
+
+3.  Training Activities – i.e., grant-writing workshops, tutorials here or elsewhere, participation in NIMBioS or departmental seminars, NIMBioS career development activities, etc.
 
 
 
@@ -47,8 +50,8 @@ Part 2 - Private Section:
 
 This is where you can provide more detail on what you did while here, including things that are in progress that you might not want up on the public site just yet.  Include research activities that are not yet published, proposals submitted, etc.  Include discussion of status of projects related to your originally proposed project(s) as well as new projects.
 
-Manuscripts in Prep
+1. Manuscripts in Prep
 
-Collaborations Previous to joining NIMBioS – progress on projects/collaborations initiated prior to joining NIMBioS
+2. Collaborations Previous to joining NIMBioS – progress on projects/collaborations initiated prior to joining NIMBioS
 
-Collaborations Initiated at NIMBioS – progress on projects/collaborations initiated since joining NIMBioS
+3. Collaborations Initiated at NIMBioS – progress on projects/collaborations initiated since joining NIMBioS

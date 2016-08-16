@@ -13,25 +13,20 @@ The main objective of this discussion is to make sure that you are aware of NIMB
     * Parking issues: Chandra Eskridge or Toby Koosman
     * Travel arrangements:
         * Turn in travel authorizations (at least five days **before** you travel) and reimbursement requests to Chandra Eskridge. Travel authorizations are required by UT if you are traveling on university business -- even if the university is not paying for it. For vacations, you don't need a travel request, but let Chris Welsh know in advance.
-
-** For plane travel assistance ask Jennifer Spar
-
-** If you request NIMBioS travel funding, turn in the request at least **two weeks** (preferably a month or more) before travel commences to Chris Welsh.
-
-* Page charges for your publications: Discuss these with Chris Welsh
-     Our standard policy is that we pay these charges (within reason) if the work was carried out in whole or in part at NIMBioS and you are still in residence. If you are no longer in residence, the work was carried out here, NIMBioS is identified as your affiliation, and you submitted the work for publication while still here, we will cover reasonable page charges. In all cases, we encourage you to seek appropriate sources to cover these from the journal, professional society, UT Research Office, current employer, etc. There is a NIMBioS Policy document on sharing costs for page charges which notes that in general we do not pay separate open access fees for journals that charge this separately from page charges.
-
-* Housing arrangements: Jennifer Spar will do what we can to assist you.
-* Research Guidance: Your mentors and the Leadership Team
-* Teaching options: The Director
-* Summer Undergraduate Research Experience and Minority serving institution visits: Associate Director for Education and Outreach, Suzanne Lenhart.
-* Questions about Postdoc Activities/Expectations: Associate Director for Postdoctoral Activities, Brian O'Meara
-* Communications training: Catherine Crawley will be in touch regarding a short video, helping you develop your elevator talk and is the main contact for press-releases regarding your research.
+        * For plane travel assistance ask Jennifer Spar
+        * If you request NIMBioS travel funding, turn in the request at least **two weeks** (preferably a month or more) before travel commences to Chris Welsh.
+    * Page charges for your publications: Discuss these with Chris Welsh
+        * Our standard policy is that we pay these charges (within reason) if the work was carried out in whole or in part at NIMBioS and you are still in residence. If you are no longer in residence, the work was carried out here, NIMBioS is identified as your affiliation, and you submitted the work for publication while still here, we will cover reasonable page charges. In all cases, we encourage you to seek appropriate sources to cover these from the journal, professional society, UT Research Office, current employer, etc. There is a NIMBioS Policy document on sharing costs for page charges which notes that in general we do not pay separate open access fees for journals that charge this separately from page charges.
+    * Housing arrangements: Jennifer Spar will do what we can to assist you.
+    * Research Guidance: Your mentors and the Leadership Team
+    * Teaching options: The Director
+    * Summer Undergraduate Research Experience and Minority serving institution visits: Associate Director for Education and Outreach, Suzanne Lenhart.
+    * Questions about Postdoc Activities/Expectations: Associate Director for Postdoctoral Activities, Brian O'Meara
+    * Communications training: Catherine Crawley will be in touch regarding a short video, helping you develop your elevator talk and is the main contact for press-releases regarding your research.
 
 4. You have an annual travel budget of up to $3000 to cover travel to conferences, visit collaborators, etc. This is not an upper limit - we have generally been able to increase this as appropriate to the needs for your career goals, but we need to know well in advance if you intend to request significantly more than this. Note that we expect you to seek travel funding from the conference or host institution, particularly if this is for international travel. In general, we expect that if you are traveling to an institution for a job interview, that institution is responsible for your travel expenses. Note that travel to represent NIMBioS at Minority Serving Partners does not count against your travel budget.  A brief trip report is expected to be filed, along with your expense reimbursement form, when NIMBioS supported your travel.
 
-5. Your mentors are not your research directors - they are here to assist you in your career goals, provide advice as appropriate on your research, suggest possible side projects, and invite you to join in their lab group meetings if appropriate. You should choose your mentors within a month of arriving here if at all possible. The procedure is that you meet with potential mentors, and then make a suggestion regarding who you feel is most appropriate to the Associate Director for Postdoctoral Activities.
-The mentors will then be asked to confirm that they are willing to assist, and you will be informed about this once we have acceptance. You are expected to meet with your mentors approximately twice a month - these meetings may be part of any regular lab group meetings.
+5. Your mentors are not your research directors - they are here to assist you in your career goals, provide advice as appropriate on your research, suggest possible side projects, and invite you to join in their lab group meetings if appropriate. You should choose your mentors within a month of arriving here if at all possible. The procedure is that you meet with potential mentors, and then make a suggestion regarding who you feel is most appropriate to the Associate Director for Postdoctoral Activities. The mentors will then be asked to confirm that they are willing to assist, and you will be informed about this once we have acceptance. You are expected to meet with your mentors approximately twice a month - these meetings may be part of any regular lab group meetings.
 
 6. NIMBioS Collaborations: We encourage you to be aware of the research emphases of other postdocs and to collaborate with them as appropriate. You are expected to attend the NIMBioS seminar series unless you are traveling, and to participate as appropriate in other seminars/reading groups that align with your interests. You should feel free to set up reading or interest groups with the other postdocs. We have regular gatherings over lunch of postdocs and staff - we encourage attending these as your schedule allows.
 
@@ -47,8 +42,8 @@ The mentors will then be asked to confirm that they are willing to assist, and y
 
 12. The food available during activities here is for participants. Unused leftovers are fair game for postdocs and other staff once transferred to the staff breakroom (note that the fridge in the staff breakroom furthest from the door is for participant food only -- do not eat).
 
-13. As a full-time UT employee, you are provided with some days for annual leave and sick leave. The expectation is that when you are traveling on NIMBioS business, you do not take annual leave. This includes travel to professional conferences or to any institution in which you are representing NIMBioS. You are expected to report the time off as annual leave if you are not carrying out NIMBioS business on the trip. If the trip is for a job interview, and you discuss your work at NIMBioS as part of the interview, then you do not report this as annual leave time. However, the expectation is also that you will take your vacation leave. Work-life balance is important: if `is.finite(work / life) == TRUE` you are doing something wrong.
+13. As a full-time UT employee, you are provided with some days for annual leave and sick leave. The expectation is that when you are traveling on NIMBioS business, you do not take annual leave. This includes travel to professional conferences or to any institution in which you are representing NIMBioS. You are expected to report the time off as annual leave if you are not carrying out NIMBioS business on the trip. If the trip is for a job interview, and you discuss your work at NIMBioS as part of the interview, then you do not report this as annual leave time. However, the expectation is also that you will take your vacation leave. Work-life balance is important: if `is.finite(work / life) == FALSE` you are doing something wrong.
 
 14. UT has given authorization for you to be a PI on a grant proposal, if you desire to compose one while here. Before planning to submit one, please discuss this with your mentors and the Director. It can be very time consuming and may well not be worth the investment. If you do decide to compose one, we will need to use internal UT funds to cover your effort on this.
 
-15. Interact with your peers, both socially and intellectually. This is a great time to form collaborations. It's also a time to bond about the unique career challenges of postdocs, do fun things in Knoxville, and get to learn about different ways of doing science and math.
+15. Interact with your peers, both socially and intellectually. This is a great stage, and place, to form collaborations. It's also a time to bond about the unique career challenges of postdocs, do fun things in Knoxville, and get to learn about different ways of doing science and math.

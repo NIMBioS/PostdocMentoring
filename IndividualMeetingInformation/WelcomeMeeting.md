@@ -13,7 +13,9 @@ The main objective of this discussion is to make sure that you are aware of NIMB
 * Parking issues: Chandra Eskridge or Toby Koosman
 * Travel arrangements:
 ** Turn in travel authorizations (at least five days **before** you travel) and reimbursement requests to Chandra Eskridge. Travel authorizations are required by UT if you are traveling on university business -- even if the university is not paying for it. For vacations, you don't need a travel request, but let Chris Welsh know in advance.
+
 ** For plane travel assistance ask Jennifer Spar
+
 ** If you request NIMBioS travel funding, turn in the request at least **two weeks** (preferably a month or more) before travel commences to Chris Welsh.
 
 * Page charges for your publications: Discuss these with Chris Welsh

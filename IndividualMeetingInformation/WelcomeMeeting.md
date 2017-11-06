@@ -4,13 +4,13 @@ The main objective of this discussion is to make sure that you are aware of NIMB
 
 1. What we are most concerned about is your success in your career goals. In order for us to be most helpful to you, we therefore need to be kept apprised of your objectives and whether these change during your time here. Throughout, you should feel free to contact the Director or the Associate Director for Postdoctoral Activities, Brian O'Meara, about any aspect of your position here, whether it be related to science, mentoring, career goals, or personal issues. We are here to help, but we won't necessarily be aware of an issue unless you tell us.
 
-2. The NIMBioS Leadership Team and staff are here to help and you should make use of their talents during your time here. Remember that all the staff are professionals and they should be treated as such. This means that if you need their assistance in any way, you should give them fair warning (if this involves anything more than a few moments of their time), and be aware that they have many demands on their time. For IT assistance, please contact the IT Manager, Michael Peek, by email rather than knocking on his door. Similarly, most financial and logistics questions can be dealt with quickly with an email to the Business Manager (Toby Koosman) or Logistics Manager (Jennifer Thomas).
+2. The NIMBioS Leadership Team and staff are here to help and you should make use of their talents during your time here. Remember that all the staff are professionals and they should be treated as such. This means that if you need their assistance in any way, you should give them fair warning (if this involves anything more than a few moments of their time), and be aware that they have many demands on their time. For IT assistance, please contact the IT Manager, Michael Peek, by email rather than knocking on his door. Similarly, most financial and logistics questions can be dealt with quickly with an email to the Business Manager (Mary Bartolini) or Logistics Manager (Jennifer Thomas).
 
 3. Who you should go to for assistance:
 
-    * Financial matters: Toby Koosman
-    * Visa issues: Toby Koosman
-    * Parking issues: Chandra Eskridge or Toby Koosman
+    * Financial matters: Mary Bartolini
+    * Visa issues: Mary Bartolini
+    * Parking issues: Chandra Eskridge or Mary Bartolini
     * Travel arrangements:
         * Turn in travel authorizations (at least five days **before** you travel) and reimbursement requests to Chandra Eskridge. Travel authorizations are required by UT if you are traveling on university business -- even if the university is not paying for it. For vacations, you don't need a travel request, but let Chris Welsh know in advance.
         * For plane travel assistance ask Jennifer Spar
@@ -51,3 +51,5 @@ The main objective of this discussion is to make sure that you are aware of NIMB
 16. Interact with your peers, both socially and intellectually. This is a great stage, and place, to form collaborations. It's also a time to bond about the unique career challenges of postdocs, do fun things in Knoxville, and get to learn about different ways of doing science and math.
 
 17. Knoxville has its own peculiarities. For example, while it snows only occasionally, this can lead to traffic problems and unsafe driving conditions. Note UT's [inclement weather policy](http://safety.utk.edu/emergency-management/inclement-weather-policy/); for many NIMBioS postdocs, working at home during such conditions can be a viable option. Football is rather a big deal here. On days of football games, your regular parking passes are likely invalid for your regular parking place. Buildings are locked down, and over 100,000 additional people are on campus. Unless you are partaking in game day activities, it's probably best to stay off campus for working.
+
+18. Slack: We use Slack for internal communication. There are channels for alumni, general, jobs, postdoc, random, and students. Ask an existing postdoc or O'Meara for an invite.
